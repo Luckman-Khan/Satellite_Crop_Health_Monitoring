@@ -3,8 +3,6 @@
 An interactive web application built with Streamlit to perform real-time crop health analysis using Sentinel-2 satellite imagery. This tool allows users to select any field on a world map, fetch live satellite data via the Sentinel Hub API, and instantly generate an NDVI (Normalized Difference Vegetation Index) map and a detailed data dashboard.
 
 
-![App Screenshot](httpsd://i.imgur.com/your-screenshot-name.png)
-
 ---
 
 ## ✨ Features
